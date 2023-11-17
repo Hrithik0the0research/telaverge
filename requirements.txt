@@ -3,7 +3,6 @@ pyrebase
 secure-smtplib
 nltk
 requests
-bs4
-time 
+bs4 
 selenium
-webdriver_manager
+webdriver-manager

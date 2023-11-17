@@ -3,7 +3,6 @@ pyrebase
 secure-smtplib
 nltk
 requests
-re 
 bs4
 time 
 selenium

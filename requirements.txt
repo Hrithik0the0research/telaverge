@@ -1,0 +1,10 @@
+streamlit
+pyrebase
+smtplib
+nltk
+requests
+re 
+bs4
+time 
+selenium
+webdriver_manager

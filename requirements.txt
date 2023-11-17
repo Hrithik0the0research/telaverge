@@ -1,5 +1,5 @@
 streamlit
-pyrebase
+pyrebase4
 secure-smtplib
 nltk
 requests
